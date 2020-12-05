@@ -22,6 +22,7 @@ public class Product
     int pid;
     int price;
     String name;
+    int quantity;
     
     
     //behaviour
